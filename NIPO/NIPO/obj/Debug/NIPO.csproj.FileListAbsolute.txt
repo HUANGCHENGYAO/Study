@@ -1,0 +1,21 @@
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NIPO.exe.config
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NIPO.exe
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NIPO.pdb
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NPOI.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NPOI.OOXML.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\BouncyCastle.Crypto.xml
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\ICSharpCode.SharpZipLib.pdb
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\bin\Debug\ICSharpCode.SharpZipLib.xml
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.csprojResolveAssemblyReference.cache
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.Form1.resources
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.Properties.Resources.resources
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.csproj.GenerateResource.Cache
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.exe
+c:\users\huangchengyao\documents\visual studio 2015\Projects\NIPO\NIPO\obj\Debug\NIPO.pdb
+C:\Users\huangchengyao\Source\Repos\HUANGCHENGYAO\Study\NIPO\NIPO\bin\Debug\NIPO.exe.config
+C:\Users\huangchengyao\Source\Repos\HUANGCHENGYAO\Study\NIPO\NIPO\obj\Debug\NIPO.exe
+C:\Users\huangchengyao\Source\Repos\HUANGCHENGYAO\Study\NIPO\NIPO\obj\Debug\NIPO.pdb
